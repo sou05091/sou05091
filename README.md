@@ -1,4 +1,4 @@
-### Hi there 👋
+### MinBeom Kim 😄
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sou03062)](https://solved.ac/sou03062/)
 <!--
 **sou05091/sou05091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
