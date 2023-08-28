@@ -13,7 +13,7 @@ Hi there! 👋 I'm MinBeom Kim, a passionate developer and AI enthusiast. Welcom
 
 Here are some technologies and tools that I'm familiar with:
 
-- Programming Languages: Python, Java
+- Programming Languages: <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 - Machine Learning: TensorFlow, PyTorch
 - Web Development: Flask, React
 - Version Control: Git
