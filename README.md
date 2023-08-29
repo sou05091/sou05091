@@ -28,6 +28,6 @@ Here are some of my notable projects:
 
 ## Let's Connect
 
-You can connect with me [Personal Website](https://sou05091.github.io/MinBeom/)
+You can connect with me on my [Website](https://sou05091.github.io/MinBeom/)
 
 Thank you for visiting my GitHub!
