@@ -7,7 +7,6 @@ Hi there! 👋 I'm MinBeom Kim, a passionate developer and AI enthusiast. Welcom
 - 🔭 I’m currently working on exciting projects involving machine learning and web development.
 - 🌱 I’m continuously learning and exploring new technologies to stay up-to-date.
 - 💬 Ask me about anything related to programming, AI, or technology.
-- 📫 How to reach me: [My Email Address](mailto:sou05094@gmail.com)
 
 ## Technologies and Tools
 
