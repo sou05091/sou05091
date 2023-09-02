@@ -26,8 +26,8 @@ Here are some of my notable projects:
 - [Busan ICT Hakaton: Creation of a Ginseng Part Classification Model and a Simple Web Service](https://github.com/sou05091/2023-ICTBusanHakaton)
 - [License Plate Recognition Project at 동연S&T](https://github.com/sou05091/MainProject_LicensePlate), <a href="https://shrub-snap-550.notion.site/CRUD-566be659b7bf4693a6515f408cf2f1d9?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
-## Let's Connect
+When you visit my [website](https://sou05091.github.io/MinBeom/), you can view my simple resume and projects.
 
-You can connect with me on my [Website](https://sou05091.github.io/MinBeom/)
+## Thanks!
 
 Thank you for visiting my GitHub!
