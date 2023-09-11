@@ -24,7 +24,7 @@ Here are some of my notable projects:
 
 - [Creating a Webpage for Nationwide Exemplary Restaurants Location Search](https://github.com/JIeunhuh/K3MiniProject)
 - [Busan ICT Hakaton: Creation of a Ginseng Part Classification Model and a Simple Web Service](https://github.com/sou05091/2023-ICTBusanHakaton)
-- [License Plate Recognition Project at 동연S&T](https://github.com/sou05091/MainProject_LicensePlate), <a href="https://shrub-snap-550.notion.site/CRUD-566be659b7bf4693a6515f408cf2f1d9?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
+- [License Plate Recognition Project at 동연S&T](https://github.com/sou05091/MainProject_LicensePlate), <a href="https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
 When you visit my [website](https://sou05091.github.io/MinBeom/), you can view my simple resume and projects.
 
