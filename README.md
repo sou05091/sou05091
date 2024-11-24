@@ -1,6 +1,6 @@
 # MinBeom Kim 😄
 
-Hi there! 👋 I'm MinBeom Kim, a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+Hi there! 👋 I'm MinBeom Kim, a passionate developer and AI enthusiast. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on exciting projects involving machine learning and web development.
 - 🌱 I’m continuously learning and exploring new technologies to stay up-to-date.
