@@ -1,7 +1,5 @@
 # MinBeom Kim 😄
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sou03062)](https://solved.ac/sou03062/)
-
 Hi there! 👋 I'm MinBeom Kim, a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 - 🔭 I’m currently working on exciting projects involving machine learning and web development.
